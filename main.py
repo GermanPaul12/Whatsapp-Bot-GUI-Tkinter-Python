@@ -9,7 +9,6 @@ root.title('Whatsapp Message Bot')
 
 customtkinter.set_appearance_mode("System")  # Modes: system (default), light, dark
 customtkinter.set_default_color_theme("blue")  # Themes: blue (default), dark-blue, green
-root.iconbitmap('/Users/german/Documents/Coding/Python projects/My coding projects/GUI/Tkinter/Monopoly/favicon.ico')
 root.geometry("1000x500")
 root.configure(bg='black')
 
